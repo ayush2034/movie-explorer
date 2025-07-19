@@ -25,8 +25,8 @@ Movie Explorer is a modern and responsive Nuxt 3 application that allows users t
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ayush2034/movie.git
-cd movie
+git clone https://github.com/ayush2034/movie-explorer.git
+cd movie-explorer
 npm install
 ```
 
